@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @pranaym23
-- 👀 I’m interested in becoming an indie dev
-- 🌱 I’m currently learning how to code :D 
-- 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 Find me on LinkedIn
 
 <!---
